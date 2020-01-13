@@ -1,4 +1,4 @@
-# MagneticDamping
+# Magnetic Damping
 Abstract
 The goal of this lab is to investigate the effectiveness of measuring the damping constant of a magnetically damped oscillator. 
 To investigate this, we measured displacement data for a mass on a spring undergoing underdamped oscillation using the
